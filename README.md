@@ -10,4 +10,4 @@ Data-driven using scriptable objects.
 
 3D model not included.
 
-[View on Portfolio](https://www.ijiro.dev/bocchi)
+[View on Portfolio](https://www.ijiro.dev/characterui)
